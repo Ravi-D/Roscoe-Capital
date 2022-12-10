@@ -4,7 +4,8 @@
       "secretStore": "AzureAppSettings",
       "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.SignalRService/SignalR/RoscoeCapital-SignalR",
       "type": "signalr.azure",
-      "connectionId": "Azure:SignalR:ConnectionString"
+      "connectionId": "Azure:SignalR:ConnectionString",
+      "dynamicId": null
     }
   }
 }
