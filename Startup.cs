@@ -1,6 +1,6 @@
 namespace Roscoe_Capital
 {
-    public class Program
+    public class Startup
     {
         public static void Main(string[] args)
         {
